@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carteirazap/static/css/main.7e2cadbb.css",
+    "main.js": "/carteirazap/static/js/main.f2837d92.js",
+    "static/js/453.d4722a7d.chunk.js": "/carteirazap/static/js/453.d4722a7d.chunk.js",
+    "index.html": "/carteirazap/index.html",
+    "main.7e2cadbb.css.map": "/carteirazap/static/css/main.7e2cadbb.css.map",
+    "main.f2837d92.js.map": "/carteirazap/static/js/main.f2837d92.js.map",
+    "453.d4722a7d.chunk.js.map": "/carteirazap/static/js/453.d4722a7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e2cadbb.css",
+    "static/js/main.f2837d92.js"
+  ]
+}
